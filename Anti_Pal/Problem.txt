@@ -1,0 +1,9 @@
+A (1-indexed) string S of length N is said to be anti-palindrome if, for each 1≤i≤N, Si≠S(N+1−i).
+
+You are given a string S of length N (consisting of lowercase Latin letters only). Rearrange the string to convert it 
+into an anti-palindrome or determine that there is no rearrangement which is an anti-palindrome.
+
+If there are multiple rearrangements of the string which are anti-palindromic, print any of them.
+
+
+Link  -  https://www.codechef.com/problems/ANTI_PAL
