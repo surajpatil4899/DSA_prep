@@ -1,0 +1,9 @@
+Read problems statements in Mandarin Chinese and Russian.
+Sometimes mysteries happen. Chef found a directed graph with N vertices and M edges in his kitchen!
+
+The evening was boring and chef has nothing else to do, so to entertain himself, Chef thought about a question
+"What is the minimum number of edges he needs to reverse in order to have at least one path from vertex 1 to vertex 
+where the vertices are numbered from 1 to N.
+
+
+Link  -  https://www.codechef.com/problems/REVERSE
